@@ -2444,4 +2444,9 @@ $neg = array(
 'brengsek',
 'asu',
 'anjing',
+'pelacur',
+'lonte',
+'keparat',
+'bangsat',
+'teroris',
 );
