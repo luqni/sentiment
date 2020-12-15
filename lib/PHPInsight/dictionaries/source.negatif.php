@@ -2441,4 +2441,7 @@ $neg = array(
 'wastafel',
 'yasilahkansaja',
 'yahudi',
+'brengsek',
+'asu',
+'anjing',
 );
